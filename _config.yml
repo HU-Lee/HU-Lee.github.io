@@ -352,11 +352,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social:
-   name:                Lee Hyunuk
-   links:
+# social:
+#   name:                Lee Hyunuk
+#   links:
 #     - https://twitter.com/<username>
-     - https://github.com/hu-lee
+#     - https://github.com/hu-lee
 
 
 # Plugin Configs
